@@ -102,7 +102,7 @@ const Writing = () => {
         >
           <h2 className="text-2xl md:text-3xl font-display text-navy mb-4">Most of my nonfiction writing is featured in my blog below. Please note: this section is currently under reconstruction!</h2>
           
-          <div className="space-y-30">
+          <div className="space-y-8">
               <div 
                 className="bg-white rounded-lg shadow-md p-6 transition-all duration-300 hover:shadow-lg"
               >
