@@ -63,7 +63,7 @@ const Research = () => {
               <ResearchItem title="Center for Healthy Minds">
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
-                  I became a Research Assistant at Dr. Richard Davidson’s Center for Healthy Minds in February 2025. I am currently working on two projects with graduate student Sin U Lam: a meta-analysis of the effects of mindfulness interventions on couple relationships, and a study evaluating methods to increase the effectiveness of wellbeing practices delivered via digital interventions. I will be presenting the second project alongside Sin U at the American Psychological Sciences conference on May 25th, 2025.                  </p>
+                  I became a Research Assistant at Dr. Richard Davidson’s Center for Healthy Minds in February 2025. I am currently working on two projects with graduate student Sin U Lam: a meta-analysis of the effects of mindfulness interventions on couple relationships, and a study evaluating methods to increase the effectiveness of wellbeing practices delivered via digital interventions.                  </p>
                   <a 
                     href="https://centerhealthyminds.org/" 
                     target="_blank" 
