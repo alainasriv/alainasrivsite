@@ -27,7 +27,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:justify-between sm:items-center gap-2 sm:gap-0">
         <NavLink 
           to="/" 
-          className="text-xl sm:text-5xl font-display text-navy hover:text-navy-light transition-colors duration-300"
+          className="text-xl sm:text-2xl font-display text-navy hover:text-navy-light transition-colors duration-300"
         >
           Alaina Srivastav
         </NavLink>
