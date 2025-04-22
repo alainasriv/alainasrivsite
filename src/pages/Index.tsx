@@ -60,7 +60,7 @@ const Index = () => {
             className="text-lg md:text-xl leading-relaxed mb-4"
             variants={fadeIn}
           >
-            I am an undergraduate Computer Science student at the University of Wisconsin-Madison, set to graduate in December 2025. I plan to pursue a Ph.D. in computational neuroscience starting the following year.
+            I am an undergraduate Computer Science student at the University of Wisconsin-Madison. I will be graduating August of 2025 and plan to pursue a Ph.D. in computational neuroscience after graduation.
           </motion.p>
           
           <motion.p 
