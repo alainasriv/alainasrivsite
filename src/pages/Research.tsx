@@ -81,7 +81,7 @@ const Research = () => {
 
                   I am currently the co-president of UW-Madison’s student organization Healthy Minds on Campus (HMoC) and have been a member since March 2024. HMoC is affiliated with the Center for Healthy Minds and aims to improve and spread awareness about wellbeing on campus.
 
-My passion for the organization’s goal led me to create The Wellbeing Guide—a resource for exploring holistic and scientific approaches to bettering one’s wellbeing. HMoC’s leadership board has collaborated on the guide, and we will be hosting a speaker-panel event alongside NAMI-UW with a focus on the guide’s eight major themes.                  </p>
+My passion for the organization’s goal led me to create The Wellbeing Guide—a resource for exploring holistic and scientific approaches to bettering one’s wellbeing. The guide serves as the club's primary resource to UW-Madison students and is available through our website. It has also been distributed to students through various UW-Madison courses.                  </p>
                   <a 
                     href="https://www.healthymindsuw.com/" 
                     target="_blank" 
