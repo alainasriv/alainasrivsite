@@ -47,7 +47,7 @@ const Research = () => {
               <ResearchItem title="Niedenthal Emotions Lab" defaultOpen={true}>
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
-                    I have been a Research Assistant at Wisconsin's Niedenthal Emotions Lab since September of 2024. My primary responsibilities include running studies, creating programs for studies through Psychopy, and learning about machine learning models that can analyze facial expressions in order to better understand human emotion and connection.
+                    I have been a Research Assistant at Wisconsin's Niedenthal Emotions Lab since September of 2024. My primary responsibilities include running studies, creating programs for studies through Psychopy, and investigating models that can analyze facial expressions in order to better understand human emotion and connection.
                   </p>
                   <a 
                     href="https://www.niedenthalemotionslab.com/" 
@@ -63,7 +63,7 @@ const Research = () => {
               <ResearchItem title="Center for Healthy Minds">
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
-                  I became a Research Assistant at Dr. Richard Davidson’s Center for Healthy Minds in February 2025. I am currently working on two projects with graduate student Sin U Lam: a meta-analysis of the effects of mindfulness interventions on couple relationships, and a study evaluating methods to increase the effectiveness of wellbeing practices delivered via digital interventions.                  </p>
+                  I became a Research Assistant at Dr. Richard Davidson’s Center for Healthy Minds in February 2025. I am currently working on two projects with graduate student Sin U Lam: a meta-analysis of the effects of mindfulness interventions on couple relationships, and a scoping review of methods to increase the effectiveness of wellbeing practices delivered digitally or electronically. Sin U and I will be presenting the latter project at the APS Conference on May 23!                  </p>
                   <a 
                     href="https://centerhealthyminds.org/" 
                     target="_blank" 
