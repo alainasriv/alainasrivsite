@@ -47,7 +47,7 @@ const Research = () => {
               <ResearchItem title="Niedenthal Emotions Lab" defaultOpen={true}>
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
-                    I have been a Research Assistant at Wisconsin's Niedenthal Emotions Lab since September of 2024. My primary responsibilities include running studies, creating programs for studies through Psychopy, and investigating models that can analyze facial expressions in order to better understand human emotion and connection.
+                    I was formerly a research assistant at the Niedenthal Emotions Lab and am now an affiliated researcher. My primary responsibilities as an RA included running studies and creating programs for studies through Psychopy. I am currently investigating models that can analyze facial expressions in order to better understand human emotion and synchrony.
                   </p>
                   <a 
                     href="https://www.niedenthalemotionslab.com/" 
@@ -63,7 +63,7 @@ const Research = () => {
               <ResearchItem title="Center for Healthy Minds">
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
-                  I became a Research Assistant at Dr. Richard Davidson’s Center for Healthy Minds in February 2025. I am currently working on two projects with graduate student Sin U Lam: a meta-analysis of the effects of mindfulness interventions on couple relationships, and a scoping review of methods to increase the effectiveness of wellbeing practices delivered digitally or electronically. Sin U and I will be presenting the latter project at the APS Conference on May 23!                  </p>
+                  I am currently a research assistant at Dr. Richard Davidson's Center for Healthy Minds. I have worked on two projects with graduate student Sin U Lam: a meta-analysis of the effects of mindfulness interventions on couple relationships, and a scoping review of methods to increase the effectiveness of wellbeing practices delivered electronically. Sin U and I will be presenting the latter project at the APS Conference on May 23!                  </p>
                   <a 
                     href="https://centerhealthyminds.org/" 
                     target="_blank" 
@@ -79,9 +79,9 @@ const Research = () => {
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
 
-                  I am currently the co-president of UW-Madison’s student organization Healthy Minds on Campus (HMoC) and have been a member since March 2024. HMoC is affiliated with the Center for Healthy Minds and aims to improve and spread awareness about wellbeing on campus.
+                  I was the co-president of UW-Madison’s student organization Healthy Minds on Campus (HMoC) my last year of college. HMoC is affiliated with the Center for Healthy Minds and aims to improve and spread awareness about well-being on campus.
 
-My passion for the organization’s goal led me to create The Wellbeing Guide—a resource for exploring holistic and scientific approaches to bettering one’s wellbeing. The guide serves as the club's primary resource to UW-Madison students and is available through our website. It has also been distributed to students through various UW-Madison courses.                  </p>
+My passion for the organization’s goal led me to create The Well-being Guide—a resource for exploring holistic and scientific approaches to bettering one’s wellbeing. The guide serves as the club's primary resource to UW-Madison students and is available through the club website.   </p>
                   <a 
                     href="https://www.healthymindsuw.com/" 
                     target="_blank" 
