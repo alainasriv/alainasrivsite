@@ -88,7 +88,7 @@ const Writing = () => {
                 <h2 className="text-xl md:text-2xl font-display text-navy mb-2 hover:text-coral transition-colors duration-300">
                   <a href="#">{"Nine Perfect Strangers versus The White Lotus"}</a>
                 </h2>
-                <p className="text-muted-foreground mb-4 text-sm">{"2/23/24"}</p>
+                <p className="text-muted-foreground mb-4 text-sm">{"5/30/25"}</p>
                 <a 
                   href="Nine Perfect Strangers versus White Lotus.pdf" 
                   className="text-coral hover:text-coral-dark transition-colors duration-300 text-sm font-medium"
