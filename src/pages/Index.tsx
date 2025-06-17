@@ -60,14 +60,14 @@ const Index = () => {
             className="text-lg md:text-xl leading-relaxed mb-4"
             variants={fadeIn}
           >
-            I am an undergraduate Computer Science student at the University of Wisconsin-Madison. I will be graduating August of 2025 and plan to pursue a Ph.D. in computational neuroscience after graduation.
+            I am an undergraduate Computer Science student at the University of Wisconsin-Madison. I will be graduating August of 2025 and plan to pursue a Ph.D. in either cognitive science or computational neuroscience after graduation.
           </motion.p>
           
           <motion.p 
             className="text-lg md:text-xl leading-relaxed mb-4"
             variants={fadeIn}
           >
-            I am interested in social affective neuroscience, namely the neural mechanisms behind human connection.
+            I am mainly interested in social affective neuroscience, namely the neural mechanisms behind human connection.
           </motion.p>
           
           <motion.p 

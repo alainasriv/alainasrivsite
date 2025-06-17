@@ -63,15 +63,27 @@ const Research = () => {
               <ResearchItem title="Center for Healthy Minds">
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
-                  I am currently a research assistant at Dr. Richard Davidson's Center for Healthy Minds. I have worked on two projects with graduate student Sin U Lam: a meta-analysis of the effects of mindfulness interventions on couple relationships, and a scoping review of methods to increase the effectiveness of wellbeing practices delivered electronically. Sin U and I will be presenting the latter project at the APS Conference on May 23!                  </p>
-                  <a 
-                    href="https://centerhealthyminds.org/" 
+                  I am a research assistant at Dr. Richard Davidson's Center for Healthy Minds. I am currently involved in two projects, the former of which I initially presented at the APS 2025 Conference alongside doctoral candidate Sin U Lam: a scoping review utilizing LLMs to evaluate the effectiveness of digital mindfulness-based interventions, and the Meta CIH project led by Brown University colleagues.</p>
+                  <p>
+                    <a 
+                      href="https://centerhealthyminds.org/" 
+                      target="_blank" 
+                      rel="noopener noreferrer"
+                      className="text-coral hover:text-coral-dark transition-colors inline-block mt-2"
+                    >
+                      https://centerhealthyminds.org/
+                    </a>
+                  </p>
+                  <p>
+                    <a 
+                    href="https://sites.brown.edu/mheal/cihmeta/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-coral hover:text-coral-dark transition-colors inline-block mt-2"
-                  >
-                    https://centerhealthyminds.org/
+                    >
+                    https://sites.brown.edu/mheal/cihmeta/
                   </a>
+                  </p>
                 </div>
               </ResearchItem>
               
@@ -79,7 +91,7 @@ const Research = () => {
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
 
-                  I was the co-president of UW-Madison’s student organization Healthy Minds on Campus (HMoC) my last year of college. HMoC is affiliated with the Center for Healthy Minds and aims to improve and spread awareness about well-being on campus.
+                  I was the co-president of UW-Madison’s student organization Healthy Minds on Campus (HMoC) my last year of university. HMoC is affiliated with the Center for Healthy Minds and aims to improve and spread awareness about well-being on campus.
 
 My passion for the organization’s goal led me to create The Well-being Guide—a resource for exploring holistic and scientific approaches to bettering one’s wellbeing. The guide serves as the club's primary resource to UW-Madison students and is available through the club website.   </p>
                   <a 
