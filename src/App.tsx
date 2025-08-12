@@ -9,10 +9,9 @@ import React from 'react';
 // Pages
 import Index from "./pages/Index";
 import Research from "./pages/Research";
-//import Resume from "./pages/Resume";
 import Writing from "./pages/Writing";
 import Contact from "./pages/Contact";
-//import NotFound from "./pages/NotFound";
+import BlogPost from './components/BlogPost';
 
 const queryClient = new QueryClient();
 
@@ -26,6 +25,7 @@ const App = () => (
             <Route path="/research" element={<Research />} />
             <Route path="/writing" element={<Writing />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/blog/:slug" element={<BlogPost />} />
             {/*<Route path="*" element={<NotFound />} /> */}
           </Routes>
         </AnimatePresence>
