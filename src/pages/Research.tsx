@@ -44,7 +44,25 @@ const Research = () => {
             variants={fadeIn}
           >
             <div className="space-y-2">
-              <ResearchItem title="Niedenthal Emotions Lab" defaultOpen={true}>
+              
+              <ResearchItem title="Center for Healthy Minds" defaultOpen={true}>
+                <div className="prose prose-lg max-w-none">
+                  <p className="text-base md:text-lg mb-4">
+                  I am currently a Research Specialist at Dr. Richard Davidson's Center for Healthy Minds. I was a student employee during undergrad, and am now working on several projects full-time. Don't hesitate to reach out if you'd like to hear more!</p>
+                  <p>
+                    <a 
+                      href="https://centerhealthyminds.org/" 
+                      target="_blank" 
+                      rel="noopener noreferrer"
+                      className="text-coral hover:text-coral-dark transition-colors inline-block mt-2"
+                    >
+                      https://centerhealthyminds.org/
+                    </a>
+                  </p>
+                </div>
+              </ResearchItem>
+
+              <ResearchItem title="Niedenthal Emotions Lab">
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
                     I was formerly a research assistant at the Niedenthal Emotions Lab and am now an affiliated researcher. My primary responsibilities as an RA included running studies and creating programs for studies through Psychopy. I am currently investigating models that can analyze facial expressions in order to better understand human emotion and synchrony.
@@ -57,33 +75,6 @@ const Research = () => {
                   >
                     https://www.niedenthalemotionslab.com/
                   </a>
-                </div>
-              </ResearchItem>
-              
-              <ResearchItem title="Center for Healthy Minds">
-                <div className="prose prose-lg max-w-none">
-                  <p className="text-base md:text-lg mb-4">
-                  I am a research assistant at Dr. Richard Davidson's Center for Healthy Minds. I am currently involved in two projects, the former of which I initially presented at the APS 2025 Conference alongside doctoral candidate Sin U Lam: a scoping review utilizing LLMs to evaluate the effectiveness of digital mindfulness-based interventions, and the Meta CIH project led by Brown University colleagues.</p>
-                  <p>
-                    <a 
-                      href="https://centerhealthyminds.org/" 
-                      target="_blank" 
-                      rel="noopener noreferrer"
-                      className="text-coral hover:text-coral-dark transition-colors inline-block mt-2"
-                    >
-                      https://centerhealthyminds.org/
-                    </a>
-                  </p>
-                  <p>
-                    <a 
-                    href="https://sites.brown.edu/mheal/cihmeta/" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="text-coral hover:text-coral-dark transition-colors inline-block mt-2"
-                    >
-                    https://sites.brown.edu/mheal/cihmeta/
-                  </a>
-                  </p>
                 </div>
               </ResearchItem>
               
