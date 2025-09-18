@@ -60,16 +60,23 @@ const Index = () => {
             className="text-lg md:text-xl leading-relaxed mb-4"
             variants={fadeIn}
           >
-            My name is Alaina. I’m an aspiring computational neuroscientist, recently graduated from the University of Wisconsin–Madison with a Bachelors in Computer Science. My next step is pursuing a Ph.D. in either cognitive science or computational neuroscience, where I hope to explore one of my biggest fascinations - how our brains create and sustain human connection.
+            My name is Alaina, and I’m an aspiring scientist. 
           </motion.p>
           
           <motion.p 
             className="text-lg md:text-xl leading-relaxed mb-4"
             variants={fadeIn}
           >
-            I hope to better understand the neural mechanisms behind social interactions and create solutions to improve general public well-being.
+            I recently graduated from the University of Wisconsin–Madison with a Bachelors in Computer Science. My next step is pursuing a Ph.D, where I hope to explore how our brains create and sustain human connection. 
           </motion.p>
           
+          <motion.p 
+            className="text-lg md:text-xl leading-relaxed mb-8"
+            variants={fadeIn}
+          >
+            My long-term goals are to understand the neural mechanisms behind social interactions and to create solutions that improve general public well-being.
+          </motion.p>
+
           <motion.p 
             className="text-lg md:text-xl leading-relaxed mb-8"
             variants={fadeIn}
