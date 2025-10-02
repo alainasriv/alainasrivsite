@@ -36,7 +36,7 @@ const Research = () => {
             className="w-full md:w-1/3"
             variants={fadeIn}
           >
-            <h1 className="text-4xl md:text-5xl font-display text-navy mb-4">Research and affiliations</h1>
+            <h1 className="text-4xl md:text-5xl font-display text-navy mb-4">Research Interests</h1>
           </motion.div>
           
           <motion.div 
@@ -45,10 +45,10 @@ const Research = () => {
           >
             <div className="space-y-2">
               
-              <ResearchItem title="Center for Healthy Minds" defaultOpen={true}>
+              <ResearchItem title="Social Cognition" defaultOpen={true}>
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
-                  I am currently a Research Specialist at Dr. Richard Davidson's Center for Healthy Minds. I was a student employee during undergrad, and am now working on several projects full-time. Don't hesitate to reach out if you'd like to hear more!</p>
+                  I am highly interested in how interpersonal interactions influence decision-making and judgment. Particularly, I believe understanding social thought is key to helping people connect better and be happier in social environments. </p>
                   <p>
                     <a 
                       href="https://centerhealthyminds.org/" 
@@ -56,16 +56,15 @@ const Research = () => {
                       rel="noopener noreferrer"
                       className="text-coral hover:text-coral-dark transition-colors inline-block mt-2"
                     >
-                      https://centerhealthyminds.org/
                     </a>
                   </p>
                 </div>
               </ResearchItem>
 
-              <ResearchItem title="Niedenthal Emotions Lab">
+              <ResearchItem title="Mindfulness and Neuroplasticity">
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
-                    I was formerly a research assistant at the Niedenthal Emotions Lab and am now an affiliated researcher. My primary responsibilities as an RA included running studies and creating programs for studies through Psychopy. I am currently investigating models that can analyze facial expressions in order to better understand human emotion and synchrony.
+                    My position as a Research Specialist at the Center for Healthy Minds has provided me with the amazing opportunity to study the psychological and physiological effects of mindfulness. Broadly, I am interested in mindfulness and neuroplasticity for their potential to shape cognition and brain function.
                   </p>
                   <a 
                     href="https://www.niedenthalemotionslab.com/" 
@@ -73,25 +72,21 @@ const Research = () => {
                     rel="noopener noreferrer"
                     className="text-coral hover:text-coral-dark transition-colors inline-block mt-2"
                   >
-                    https://www.niedenthalemotionslab.com/
                   </a>
                 </div>
               </ResearchItem>
               
-              <ResearchItem title="Healthy Minds on Campus">
+              <ResearchItem title="Affective Neuroscience">
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
-
-                  I was the co-president of UW-Madison’s student organization Healthy Minds on Campus (HMoC) my last year of university. HMoC is affiliated with the Center for Healthy Minds and aims to improve and spread awareness about well-being on campus.
-
-My passion for the organization’s goal led me to create The Well-being Guide—a resource for exploring holistic and scientific approaches to bettering one’s wellbeing. The guide serves as the club's primary resource to UW-Madison students and is available through the club website.   </p>
+                  What if we could reliably associate specific brain regions with distinct emotions and emotional processes - and potentially study or even enhance their functions? The possibility of advancing well-being through this type of research is what draws me to the field.
+                  </p>
                   <a 
                     href="https://www.healthymindsuw.com/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-coral hover:text-coral-dark transition-colors inline-block mt-2"
                   >
-                    https://www.healthymindsuw.com/
                   </a>
                 </div>
               </ResearchItem>
