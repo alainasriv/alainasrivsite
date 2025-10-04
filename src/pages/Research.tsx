@@ -48,7 +48,7 @@ const Research = () => {
               <ResearchItem title="Social Cognition" defaultOpen={true}>
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
-                  I am highly interested in how interpersonal interactions influence decision-making and judgment. Particularly, I believe understanding social thought is key to helping people connect better and be happier in social environments. </p>
+                  I am highly interested in how interpersonal interactions influence decision-making and judgment. I believe understanding social thought is key to helping people connect better and be happier in social environments. </p>
                   <p>
                     <a 
                       href="https://centerhealthyminds.org/" 
@@ -79,7 +79,7 @@ const Research = () => {
               <ResearchItem title="Affective Neuroscience">
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
-                  What if we could reliably associate specific brain regions with distinct emotions and emotional processes - and potentially study or even enhance their functions? The possibility of advancing well-being through this type of research is what draws me to the field.
+                  What if we could reliably associate specific brain regions with distinct emotions and emotional processes - and potentially study or even enhance their functions? Ultimately, I hope this type of research can advance and improve public well-being.
                   </p>
                   <a 
                     href="https://www.healthymindsuw.com/" 
