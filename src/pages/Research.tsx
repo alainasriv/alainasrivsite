@@ -79,7 +79,7 @@ const Research = () => {
               <ResearchItem title="Affective Neuroscience">
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
-                  What if we could reliably associate specific brain regions with distinct emotions and emotional processes - and potentially study or even enhance their functions? Ultimately, I hope this type of research can advance and improve public well-being.
+                  What if we could reliably associate specific brain regions with distinct emotions and emotional processes - and potentially study or even enhance their functions? Ultimately, I hope this area of research develops methods of improving human well-being.
                   </p>
                   <a 
                     href="https://www.healthymindsuw.com/" 
