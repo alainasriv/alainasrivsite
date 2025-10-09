@@ -6,12 +6,12 @@ export const posts = {
     component: AIBuzzword,
     title: 'AI: the Latest Buzzword',
     date: '2/23/24',
-    excerpt: 'Exploring the current state of AI discourse...'
+    excerpt: 'AI is the new big thing...'
   },
   'nine-perfect-strangers-vs-white-lotus': {
     component: NinePerfectStrangers,
     title: 'Nine Perfect Strangers versus The White Lotus',
     date: '5/30/25',
-    excerpt: 'A comparative analysis of these two compelling series...'
+    excerpt: 'They are actually quite different...'
   }
 };
