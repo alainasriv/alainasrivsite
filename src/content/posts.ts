@@ -12,6 +12,6 @@ export const posts = {
     component: NinePerfectStrangers,
     title: 'Nine Perfect Strangers versus The White Lotus',
     date: '5/30/25',
-    excerpt: 'They are actually quite different...'
+    excerpt: 'They are actually quite different!'
   }
 };
