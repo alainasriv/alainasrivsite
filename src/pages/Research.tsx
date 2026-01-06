@@ -48,7 +48,11 @@ const Research = () => {
               <ResearchItem title="Social Cognition" defaultOpen={true}>
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
-                  I am highly interested in how interpersonal interactions influence decision-making and judgment. I believe understanding social thought is key to helping people connect better and be happier in social environments. </p>
+                    I am highly interested in how interpersonal interactions influence decision-making and judgment. I believe understanding social thought is key to helping people connect better and be happier in social environments. 
+                  </p>
+                  <p className="text-base md:text-lg mb-4">
+                    One area of specific interest at the moment is Large Language Models' ability to simulate human conversation and connection. How do LLMs present information in an appealing manner, and what does this appeal do to people on a cognitive and affective level?
+                  </p>
                   <p>
                     <a 
                       href="https://centerhealthyminds.org/" 
@@ -64,7 +68,7 @@ const Research = () => {
               <ResearchItem title="Mindfulness and Neuroplasticity">
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
-                    My position as a Research Specialist at the Center for Healthy Minds has provided me with the amazing opportunity to study the psychological and physiological effects of mindfulness. Broadly, I am interested in mindfulness and neuroplasticity for their potential to shape cognition and brain function.
+                    My position as a Research Specialist at the Center for Healthy Minds has provided me with the amazing opportunity to study the psychological and physiological effects of mindfulness. Broadly, I am interested in the potential of 'awareness' to shape cognition and brain function.
                   </p>
                   <a 
                     href="https://www.niedenthalemotionslab.com/" 
@@ -79,7 +83,7 @@ const Research = () => {
               <ResearchItem title="Affective Neuroscience">
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
-                  What if we could reliably associate specific brain regions with distinct emotions and emotional processes - and potentially study or even enhance their functions? Ultimately, I hope this area of research develops methods of improving human well-being.
+                  I am excited about contributing to research that can reliably associate specific brain regions with distinct emotions and emotional processes. Ultimately, I hope this area of research develops methods of improving human well-being.
                   </p>
                   <a 
                     href="https://www.healthymindsuw.com/" 

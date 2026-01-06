@@ -48,7 +48,7 @@ const Navbar = () => {
                  isActive ? "text-coral font-medium" : "text-navy hover:text-coral")
             }
           >
-            Research
+            Research Interests
           </NavLink>
           
           <NavLink 
