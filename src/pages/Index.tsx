@@ -67,7 +67,7 @@ const Index = () => {
             className="text-lg md:text-xl leading-relaxed mb-4"
             variants={fadeIn}
           >
-            I recently graduated from the University of Wisconsin–Madison with a Bachelors in Computer Science. My next step is pursuing a PhD, where I hope to explore the topics of social cognition, behavior, and awareness. 
+            I recently graduated from the University of Wisconsin–Madison with a Bachelors in Computer Science. My next step is to pursue a PhD in brain sciences. I hope to explore the topics of social cognition, behavior, and awareness. 
           </motion.p>
           
           <motion.p 
