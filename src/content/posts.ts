@@ -13,7 +13,7 @@ export const posts = {
     component: NinePerfectStrangers,
     title: 'Nine Perfect Strangers versus The White Lotus',
     date: '5/30/25',
-    excerpt: 'My thoughts on two mind-boggling shows.'
+    excerpt: 'Two shows about improving well-being...'
   },
   'ai-relationships-brain': {
     component: AIRelationshipsBrain,
