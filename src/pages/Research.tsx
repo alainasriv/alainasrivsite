@@ -45,13 +45,13 @@ const Research = () => {
           >
             <div className="space-y-2">
               
-              <ResearchItem title="Social Cognition" defaultOpen={true}>
+              <ResearchItem title="Connection and Cognition" defaultOpen={true}>
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
-                    I am highly interested in how interpersonal interactions influence decision-making and judgment. I believe understanding social thought is key to helping people connect better and be happier in social environments. 
+                    I'm interested in how humans form emotional connections in real time. I am also interested in how these interactions influence decision-making and judgment. I believe understanding social thought is key to helping people connect better and be happier in social environments. 
                   </p>
                   <p className="text-base md:text-lg mb-4">
-                    One area of specific interest at the moment is Large Language Models' ability to simulate human conversation and connection. How do LLMs present information in an appealing manner, and what does this appeal do to people on a cognitive and affective level?
+                    One area of specific interest at the moment is Large Language Models' ability to simulate human conversation and connection. How do LLMs present information in an appealing manner, and what does this appeal do to people on a cognitive and affective level? Is a relationship with AI as emotionally impactful as a relationship with another human? 
                   </p>
                   <p>
                     <a 
@@ -65,10 +65,10 @@ const Research = () => {
                 </div>
               </ResearchItem>
 
-              <ResearchItem title="Mindfulness and Neuroplasticity">
+              <ResearchItem title="Mindfulness and Awareness">
                 <div className="prose prose-lg max-w-none">
                   <p className="text-base md:text-lg mb-4">
-                    My position as a Research Specialist at the Center for Healthy Minds has provided me with the amazing opportunity to study the psychological and physiological effects of mindfulness. Broadly, I am interested in the potential of 'awareness' to shape cognition and brain function.
+                    My position as a Research Specialist at the Center for Healthy Minds has provided me with the amazing opportunity to study the psychological and physiological effects of mindfulness. Broadly, I am interested in how strengthening 'awareness' can improve relationships through intersubjectivity. 
                   </p>
                   <a 
                     href="https://www.niedenthalemotionslab.com/" 
