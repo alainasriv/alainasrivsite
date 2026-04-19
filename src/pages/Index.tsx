@@ -67,14 +67,14 @@ const Index = () => {
             className="text-lg md:text-xl leading-relaxed mb-4"
             variants={fadeIn}
           >
-            I recently graduated from the University of Wisconsin–Madison with a Bachelors in Computer Science. My next step is to pursue a PhD in brain sciences. I hope to explore the topics of social cognition, behavior, and awareness. 
+            I graduated from the University of Wisconsin–Madison in 2025 with a Bachelors in Computer Science. My next step is to pursue a PhD in the brain sciences. 
           </motion.p>
           
           <motion.p 
             className="text-lg md:text-xl leading-relaxed mb-8"
             variants={fadeIn}
           >
-            My long-term goals are to understand the neural mechanisms behind social connection and to create solutions that improve general public well-being.
+            I hope to be a 'connections' researcher. I want to study the neural, psychological, and physiological mechanisms behind social connection in order to create solutions that improve societal well-being.
           </motion.p>
 
           <motion.p 
