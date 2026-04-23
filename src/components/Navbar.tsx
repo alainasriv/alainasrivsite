@@ -34,7 +34,7 @@ const Navbar = () => {
       
         <nav className="flex space-x-4 sm:space-x-5 md:space-x-8 items-center">
           <a 
-            href="/Alaina_Sriv_CV.pdf" 
+            href="/Alaina_Srivastav_CV.pdf" 
             target="_blank" 
             rel="noopener noreferrer"
             className="py-1 text-base sm:text-base md:text-lg transition-colors duration-300 text-navy hover:text-coral"
