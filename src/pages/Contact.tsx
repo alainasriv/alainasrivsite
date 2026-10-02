@@ -73,9 +73,6 @@ const Contact = () => {
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
           <motion.div variants={fadeIn}>
-            <p className="text-lg mb-6">
-              Whether you're interested in collaborating on research, have a question, or just want to connect, I'd love to hear from you! Reach out through through my email, and I'll be in touch soon.
-            </p>
             
             <div className="mb-8">
               <h3 className="text-xl font-medium mb-3">Connect With Me!</h3>
