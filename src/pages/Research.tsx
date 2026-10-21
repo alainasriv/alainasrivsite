@@ -33,65 +33,52 @@ const Research = () => {
           }}
         >
           <motion.div 
-            className="w-full md:w-1/3"
+            className="w-full md:w-2/5"
             variants={fadeIn}
           >
             <h1 className="text-4xl md:text-5xl font-display text-navy mb-4">Research Interests</h1>
+            <h2 className="text-lg md:text-xl leading-relaxed mb-8">Currently, I am interested in questions involving the ‘life cycles’ of social interaction.</h2>
           </motion.div>
           
           <motion.div 
-            className="w-full md:w-2/3"
+            className="w-full md:w-3/5"
             variants={fadeIn}
           >
             <div className="space-y-2">
               
-              <ResearchItem title="Connection and Cognition" defaultOpen={true}>
+              <ResearchItem title="Pre" defaultOpen={false}>
                 <div className="prose prose-lg max-w-none">
-                  <p className="text-base md:text-lg mb-4">
-                    I'm interested in how humans form emotional connections in real time. I am also interested in how these interactions influence decision-making and judgment. I believe understanding social thought is key to helping people connect better and be happier in social environments. 
+                  <p className="text-base md:text-lg mb-4 italic">
+                    Expectations, beliefs, and the choice to interact.
                   </p>
+
                   <p className="text-base md:text-lg mb-4">
-                    One area of specific interest at the moment is Large Language Models' ability to simulate human conversation and connection. How do LLMs present information in an appealing manner, and what does this appeal do to people on a cognitive and affective level? Is a relationship with AI as emotionally impactful as a relationship with another human? 
-                  </p>
-                  <p>
-                    <a 
-                      href="https://centerhealthyminds.org/" 
-                      target="_blank" 
-                      rel="noopener noreferrer"
-                      className="text-coral hover:text-coral-dark transition-colors inline-block mt-2"
-                    >
-                    </a>
+                    What do people believe or expect from an interaction before it starts?
                   </p>
                 </div>
               </ResearchItem>
 
-              <ResearchItem title="Mindfulness and Awareness">
+              <ResearchItem title="During">
                 <div className="prose prose-lg max-w-none">
-                  <p className="text-base md:text-lg mb-4">
-                    My position as a Research Specialist at the Center for Healthy Minds has provided me with the amazing opportunity to study the psychological and physiological effects of mindfulness. Broadly, I am interested in how strengthening 'awareness' can improve relationships through intersubjectivity. 
+                  <p className="text-base md:text-lg mb-4 italic">
+                    Interpersonal mechanisms of emotional connection.
                   </p>
-                  <a 
-                    href="https://www.niedenthalemotionslab.com/" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="text-coral hover:text-coral-dark transition-colors inline-block mt-2"
-                  >
-                  </a>
+
+                  <p className="text-base md:text-lg mb-4">
+                    What linguistic or behavioral mechanisms contribute to people feeling connected during an interaction? Also — how does choosing to be empathetic or curious during an interaction affect perceptions of connection?
+                  </p>
                 </div>
               </ResearchItem>
               
-              <ResearchItem title="Affective Neuroscience">
+              <ResearchItem title="Post">
                 <div className="prose prose-lg max-w-none">
-                  <p className="text-base md:text-lg mb-4">
-                  I am excited about contributing to research that can reliably associate specific brain regions with distinct emotions and emotional processes. Ultimately, I hope this area of research develops methods of improving human well-being.
+                  <p className="text-base md:text-lg mb-4 italic">
+                  Emotional and cognitive consequences.
                   </p>
-                  <a 
-                    href="https://www.healthymindsuw.com/" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="text-coral hover:text-coral-dark transition-colors inline-block mt-2"
-                  >
-                  </a>
+
+                  <p className="text-base md:text-lg mb-4">
+                    What aspects of the interaction were most important in forming post-interaction emotions and judgments?
+                  </p>
                 </div>
               </ResearchItem>
             </div>

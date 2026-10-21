@@ -74,14 +74,14 @@ const Index = () => {
             className="text-lg md:text-xl leading-relaxed mb-8"
             variants={fadeIn}
           >
-            I hope to be a 'connections' researcher. I want to study the neural, psychological, and physiological mechanisms behind social connection in order to create solutions that improve societal well-being.
+            My broad research goal is to study social connection. I am motivated to do so primarily because I believe understanding connection and social thought is key to creating solutions that can improve societal well-being.
           </motion.p>
 
           <motion.p 
             className="text-lg md:text-xl leading-relaxed mb-8"
             variants={fadeIn}
           >
-            Outside of research, I am a writer, fitness enthusiast, and lover of the outdoors.
+            Outside of research, I am a writer, fitness enthusiast, and lover of the outdoors!
           </motion.p>
           
           <motion.div
